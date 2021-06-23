@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feuerbach", "Feuerbach\Feuerbach.csproj", "{413148E9-1FA2-402A-BDDF-BEFC315E765D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413148E9-1FA2-402A-BDDF-BEFC315E765D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413148E9-1FA2-402A-BDDF-BEFC315E765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413148E9-1FA2-402A-BDDF-BEFC315E765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413148E9-1FA2-402A-BDDF-BEFC315E765D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {888D729B-EEE3-477D-9368-310AAE12C2C7}
+	EndGlobalSection
+EndGlobal
