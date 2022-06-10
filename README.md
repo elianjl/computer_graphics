@@ -1,2 +1,2 @@
-# CompGraphics
+# Computer Graphics
 Just for fun
